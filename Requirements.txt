@@ -1,6 +1,6 @@
 streamlit
-    pandas
-    numpy
-    matplotlib
-    statsmodels
-    python-dateutil
+pandas
+numpy
+matplotlib
+statsmodels
+python-dateutil
