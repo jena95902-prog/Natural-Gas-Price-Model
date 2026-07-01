@@ -3,4 +3,4 @@ pandas
 numpy
 matplotlib
 statsmodels
-python-dateutil
+scikit-learn
